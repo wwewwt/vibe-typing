@@ -34,7 +34,7 @@ if (!rootElement) {
 
 createRoot(rootElement).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/vibe-typing">
       <Routes>
         <Route path="/" element={<LanguageRouter />} />
         <Route path="/en" element={<LanguageRouter />} />
