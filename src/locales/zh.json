@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "Flow Space",
+    "subtitle": "沉浸式写作环境"
+  },
+  "controls": {
+    "openSettings": "设置",
+    "mixer": "混音器",
+    "precipitation": "雨雪强度",
+    "blur": "背景模糊",
+    "whiteNoise": "白噪音",
+    "musicMix": "音乐融合",
+    "export": "导出 .txt"
+  },
+  "modes": {
+    "rain": "雨",
+    "snow": "雪"
+  },
+  "editor": {
+    "placeholder": "开始写作..."
+  },
+  "language": {
+    "switch": "语言",
+    "en": "English",
+    "zh": "中文"
+  }
+}

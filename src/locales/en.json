@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "Flow Space",
+    "subtitle": "Immersive Writing Environment"
+  },
+  "controls": {
+    "openSettings": "Settings",
+    "mixer": "Mixer",
+    "precipitation": "Precipitation",
+    "blur": "Blur",
+    "whiteNoise": "White Noise",
+    "musicMix": "Music Mix",
+    "export": "Export .txt"
+  },
+  "modes": {
+    "rain": "Rain",
+    "snow": "Snow"
+  },
+  "editor": {
+    "placeholder": "Start writing..."
+  },
+  "language": {
+    "switch": "Language",
+    "en": "English",
+    "zh": "中文"
+  }
+}

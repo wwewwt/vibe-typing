@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(browse)",
+      "Skill(browse:*)",
+      "WebFetch(domain:flow-space-v1.vercel.app)",
+      "Bash(pnpm vitest:*)",
+      "Bash(pnpm test:*)",
+      "Bash(npm test:*)",
+      "Skill(review)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm dev:*)",
+      "WebFetch(domain:greentec.github.io)",
+      "Read(//c/Users/wei/AppData/Local/Temp/**)"
+    ]
+  }
+}
