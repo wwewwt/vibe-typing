@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://flow-space.vercel.app/sitemap.xml
+Sitemap: https://wwewwt.github.io/vibe-typing/sitemap.xml
