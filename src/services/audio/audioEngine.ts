@@ -22,7 +22,7 @@ function createAudioEngine() {
   let snowAudio: HTMLAudioElement | null = null
   let currentMode: AppMode | null = null
 
-  const audioBaseUrl = '/sounds'
+  const audioBaseUrl = import.meta.env.BASE_URL + 'sounds'
 
   function loadAudio(src: string): HTMLAudioElement {
     const audio = new Audio(src)
